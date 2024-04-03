@@ -1,0 +1,153 @@
+[
+     { 
+      "nombreUsuario":"WILSON FRANCO JIMÉNEZ",
+      "cargo": "consultorII",
+      "profesion": "fisioterapueta Especialista SST",
+      "ruta": "Intervención",
+      "empresas": [
+        "sodexo",
+         "Frisby",
+         "corporación bernarda",
+         "elctromontajes",
+         "colombina"
+
+      ]
+    },
+
+    { 
+      "nombreUsuario":"NESTOR ARLEY MARULANDA SERNA",
+      "cargo": "consultorI",
+      "profesion": "Profesional En Sst",
+      "ruta": "Especializada",
+      "empresas": [
+        "COMPAÑIA NACIONAL DE TRABAJADORES TEMPORALES S.A.",
+         "TIEMPOS S.A.S.",
+         "MAS TALENTO S.A.S.",
+         "BPO CONTRATE GLOBAL S.A.S",
+         "WORK AND TALENT SAS"
+
+      ]
+    },
+
+    { 
+      "nombreUsuario":"FRANCISCO LUIS TABORDA POSSO",
+      "cargo": "consultorI",
+      "profesion": "Tecnologo En Sst",
+      "ruta": "Avanzada",
+      "empresas": [
+        "CI FLORES CARMEL S A.S.",
+         "FLORES EL TRIGAL S.A.S.",
+         "SUPERORIENTE S.A.",
+         "UNIFLOR S.A. COMERCIALIZADORA INTERNACIONAL.",
+         "C.I. FLORES DE LA CAMPIÑA S.A"
+         
+      ]
+    },
+
+    { 
+      "nombreUsuario":"XIOMY VANESSA BOHORQUEZ",
+      "cargo": "consultorI",
+      "profesion": "Profesional En Sst",
+      "ruta": "Estandar",
+      "empresas": [
+        "PROQUIDENT S A",
+         "CEMENTOS ARGOS S.A.",
+         "SARQUITECTOS E INGENIEROS ASOCIADOS S.A",
+         "AUTOMOTORA S.A.S",
+         "VARIADORES S A"
+         
+      ]
+    },
+
+    { 
+      "nombreUsuario":"Jessica Martinez",
+      "cargo": "consultorII",
+      "profesion": "Psicólogo En Sst",
+      "ruta": "Avanzada",
+      "empresas": [
+        "PROQUIDENT S A",
+         "CEMENTOS ARGOS S.A.",
+         "SARQUITECTOS E INGENIEROS ASOCIADOS S.A",
+         "AUTOMOTORA S.A.S",
+         "VARIADORES S A"
+         
+      ]
+    },
+
+    { 
+      "nombreUsuario":"PAULA ANDREA LOTERO",
+      "cargo": "consultorI",
+      "profesion": "Tecnólogo En Sst",
+      "ruta": "Avanzada",
+      "empresas": [
+        "COMPAÑIA NACIONAL DE TRABAJADORES TEMPORALES S.A.",
+        "TIEMPOS S.A.S.",
+        "MAS TALENTO S.A.S.",
+        "BPO CONTRATE GLOBAL S.A.S",
+        "WORK AND TALENT SAS"
+         
+      ]
+    },
+
+    { 
+      "nombreUsuario":"ADRIANA  VILLA ARCILA",
+      "cargo": "consultorI",
+      "profesion": "Tecnólogo En Sst",
+      "ruta": "Avanzada",
+      "empresas": [
+        "PROQUIDENT S A",
+         "CEMENTOS ARGOS S.A.",
+         "SARQUITECTOS E INGENIEROS ASOCIADOS S.A",
+         "AUTOMOTORA S.A.S",
+         "VARIADORES S A"
+         
+      ]
+    },
+
+    { 
+      "nombreUsuario":"ALBA MARINA VARON RODRIGUEZ",
+      "cargo": "consultorIII",
+      "profesion": "Medico especialista En Sst",
+      "ruta": "Avanzada",
+      "empresas": [
+        "sodexo",
+        "Frisby",
+        "corporación bernarda",
+        "elctromontajes",
+        "colombina"
+         
+      ]
+    },
+
+    { 
+      "nombreUsuario":"LUZ MARINA  RODRIGUEZ",
+      "cargo": "consultorIII",
+      "profesion": "Medico especialista En Sst",
+      "ruta": "Avanzada",
+      "empresas": [
+        "CI FLORES CARMEL S A.S.",
+        "FLORES EL TRIGAL S.A.S.",
+        "SUPERORIENTE S.A.",
+        "UNIFLOR S.A. COMERCIALIZADORA INTERNACIONAL.",
+        "C.I. FLORES DE LA CAMPIÑA S.A"
+         
+      ]
+    },
+
+    { 
+      "nombreUsuario":"JOHANA MARIA ARBOLEDA",
+      "cargo": "consultorIII",
+      "profesion": "Ingeniera especialista En Sst",
+      "ruta": "Avanzada",
+      "empresas": [
+        "CI FLORES CARMEL S A.S.",
+        "FLORES EL TRIGAL S.A.S.",
+        "SUPERORIENTE S.A.",
+        "UNIFLOR S.A. COMERCIALIZADORA INTERNACIONAL.",
+        "C.I. FLORES DE LA CAMPIÑA S.A"
+         
+      ]
+    }
+    
+
+]
