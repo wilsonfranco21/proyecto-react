@@ -1,16 +1,17 @@
 [
      { 
       "nombreUsuario":"WILSON FRANCO JIMÉNEZ",
-      "cargo": "consultorII",
-      "profesion": "fisioterapueta Especialista SST",
+      "cargo": "Consultor II",
+      "profesion": "Fisioterapeúta Especialista SST",
       "ruta": "Intervención",
+      "nombreIngreso": "wfj",
+      "contraseñaIngreso": 1234,
       "empresas": [
         "sodexo",
          "Frisby",
          "corporación bernarda",
          "elctromontajes",
          "colombina"
-
       ]
     },
 
@@ -19,6 +20,8 @@
       "cargo": "consultorI",
       "profesion": "Profesional En Sst",
       "ruta": "Especializada",
+      "nombreIngreso": "nams",
+      "contraseñaIngreso": 1234,
       "empresas": [
         "COMPAÑIA NACIONAL DE TRABAJADORES TEMPORALES S.A.",
          "TIEMPOS S.A.S.",
@@ -34,6 +37,8 @@
       "cargo": "consultorI",
       "profesion": "Tecnologo En Sst",
       "ruta": "Avanzada",
+      "nombreIngreso": "fltp",
+      "contraseñaIngreso": 1234,
       "empresas": [
         "CI FLORES CARMEL S A.S.",
          "FLORES EL TRIGAL S.A.S.",
@@ -49,6 +54,8 @@
       "cargo": "consultorI",
       "profesion": "Profesional En Sst",
       "ruta": "Estandar",
+      "nombreIngreso": "xvb",
+      "contraseñaIngreso": 1234,
       "empresas": [
         "PROQUIDENT S A",
          "CEMENTOS ARGOS S.A.",
@@ -64,6 +71,8 @@
       "cargo": "consultorII",
       "profesion": "Psicólogo En Sst",
       "ruta": "Avanzada",
+      "nombreIngreso": "jm",
+      "contraseñaIngreso": 1234,
       "empresas": [
         "PROQUIDENT S A",
          "CEMENTOS ARGOS S.A.",
@@ -79,6 +88,8 @@
       "cargo": "consultorI",
       "profesion": "Tecnólogo En Sst",
       "ruta": "Avanzada",
+      "nombreIngreso": "pal",
+      "contraseñaIngreso": 1234,
       "empresas": [
         "COMPAÑIA NACIONAL DE TRABAJADORES TEMPORALES S.A.",
         "TIEMPOS S.A.S.",
@@ -94,6 +105,8 @@
       "cargo": "consultorI",
       "profesion": "Tecnólogo En Sst",
       "ruta": "Avanzada",
+      "nombreIngreso": "ava",
+      "contraseñaIngreso": 1234,
       "empresas": [
         "PROQUIDENT S A",
          "CEMENTOS ARGOS S.A.",
@@ -109,6 +122,8 @@
       "cargo": "consultorIII",
       "profesion": "Medico especialista En Sst",
       "ruta": "Avanzada",
+      "nombreIngreso": "amvr",
+      "contraseñaIngreso": 1234,
       "empresas": [
         "sodexo",
         "Frisby",
@@ -124,6 +139,8 @@
       "cargo": "consultorIII",
       "profesion": "Medico especialista En Sst",
       "ruta": "Avanzada",
+      "nombreIngreso": "lmr",
+      "contraseñaIngreso": 1234,
       "empresas": [
         "CI FLORES CARMEL S A.S.",
         "FLORES EL TRIGAL S.A.S.",
@@ -139,6 +156,8 @@
       "cargo": "consultorIII",
       "profesion": "Ingeniera especialista En Sst",
       "ruta": "Avanzada",
+      "nombreIngreso": "jma",
+      "contraseñaIngreso": 1234,
       "empresas": [
         "CI FLORES CARMEL S A.S.",
         "FLORES EL TRIGAL S.A.S.",
