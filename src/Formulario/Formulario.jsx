@@ -38,7 +38,7 @@ export function Formulario(){
             }else{
                  // voy a enrutar otro compomente(¿como lanzo un componente
                 // desde otro componemte?)
-                enrutador("/home")
+                enrutador("/home",{state:{envio:busqueda}})
     
             }
         
