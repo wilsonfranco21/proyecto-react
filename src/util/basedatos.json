@@ -7,11 +7,12 @@
       "nombreIngreso": "wfj",
       "contraseñaIngreso": 1234,
       "empresas": [
-        "sodexo",
+        "Sodexo",
          "Frisby",
-         "corporación bernarda",
-         "elctromontajes",
-         "colombina"
+         "Corporación Bernarda",
+         "Electromontajes",
+         "Colombina"
+        
       ]
     },
 
